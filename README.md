@@ -1,0 +1,7 @@
+PYTHON API FOR CUSAT RESULTS RETRIEVAL
+
+REQUIREMENTS
+
+	urllib2
+	requests
+	BeautifulSoup4
